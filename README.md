@@ -2,6 +2,8 @@
 
 Welcome to the LangChain course by Aurelio AI!
 
+All chapter summaries : https://www.aurelio.ai/course/langchain
+
 ## Getting Started
 
 ### Python Environment (IMPORTANT)
